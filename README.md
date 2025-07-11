@@ -1,6 +1,6 @@
 # 📄 Minikube with Podman Driver Setup on macOS
 
-Author: `@atulkamble`
+Author: `[@atulkamble](https://github.com/atulkamble)`
 
 ---
 
